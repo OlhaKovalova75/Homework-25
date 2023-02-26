@@ -1,0 +1,15 @@
+.main-container{
+    background-color: pink;
+}
+.main_logo{
+    width: 100px;
+    top: 20px;
+}
+.container{
+    display: flex;
+}
+.sidebar {
+   
+      position: sticky;
+      top: 0; 
+  }	
